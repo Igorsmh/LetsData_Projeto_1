@@ -12,4 +12,6 @@ Os dados usados são referentes ao enem 2019 ( primeiro notebook ) e enem 2021 (
 assim como o dicionario de dados também pode ser obtido quando se realiza do download de qualquer um dos arquivos no link a baixo
 
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
- 
+
+
+A pasta Scr possui um pequeno script que utilizei para compactar os arquivos de .csv para .parquet
